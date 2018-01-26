@@ -1,0 +1,41 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+    background-color: #d1d1d1;
+    font-family: Georgia;
+    margin:0px 0px 40px;
+}
+div{
+    width:400px;
+    margin: 10px;
+    background-color: gray;
+}
+.rozdzial{
+    background-color: darkgray;
+}
+.redb{
+    background-color: red;
+}
+.blueb{
+    background-color: blue;
+}
+.greenb{
+    background-color: green;
+    font-weight: bold;
+}
+.test{
+    background-color:brown ;
+}
+.horizontal{
+    /*float: left;*/
+    margin-left: 5px;
+}
+.margin20px{
+    margin-left: 20px;
+}
+.markedElement{
+    font-weight: bold;
+    background-color: dimgrey;
+}
